@@ -1,0 +1,30 @@
+
+---
+name: cat797f-engine-simulation
+description: Skill para desarrollar, analizar y probar el simulador del motor diésel CAT C175-20 del camión minero CAT 797F mediante modelos 3D, simulación mecánica, parámetros técnicos y sistemas de mantenimiento.
+---
+
+# CAT797F Engine Simulation
+
+## Objetivo
+Desarrollar un simulador interactivo del motor CAT C175-20 del camión CAT 797F.
+
+## Reglas técnicas
+- Utilizar datos técnicos verificables.
+- No inventar dimensiones ni parámetros.
+- Diferenciar los datos reales de los valores ilustrativos.
+- No confundir motores genéricos V8 o V12 con el CAT C175-20 V20.
+- Conservar las licencias y atribuciones de los repositorios originales.
+- Mantener separados los módulos para facilitar su integración.
+
+## Procedimiento
+1. Analizar la documentación técnica.
+2. Identificar los componentes y sus características.
+3. Organizar los parámetros y unidades.
+4. Definir las ecuaciones y modelos físicos.
+5. Preparar la arquitectura de simulación.
+6. Desarrollar y conectar los módulos.
+7. Ejecutar pruebas y documentar resultados.
+
+## Referencias
+Consultar los archivos de la carpeta references antes de implementar cálculos o modelos.
